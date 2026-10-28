@@ -7,8 +7,9 @@ This repository contains the analysis code for a parametric simulation study cha
 - Repository name: Comparing-performance-measure-behavior_simulation-study
 - Repository link: https://github.com/edarr1/Comparing-performance-measure-behavior_simulation-study
 - Authors: Emma Darr, Edmund Agyemang, Samuel Kakraba, Jeffrey Shaffer
+- Corresponding Author(s) Contact: skakraba@tulane.edu; jshaffer@tulane.edu
 - Research institution: Tulane University, Celia Scott Weatherhead School of Public Health and Tropical Medicine, Department of Biostatistics & Data Science
-- Contact information: edarr1@tulane.edu
+- Repository contact information: edarr1@tulane.edu
 
 ## Repository Contents
 ```
