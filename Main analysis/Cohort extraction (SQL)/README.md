@@ -1,5 +1,5 @@
 
-# SQL Scripts
+# Cohort Extraction
 
 ## Script Order
 1) sepsis_last_icu
